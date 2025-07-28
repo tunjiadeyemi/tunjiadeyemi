@@ -4,7 +4,7 @@ I'm a passionate Software Engineer with 4+ years of experience building scalable
 
 ## 👨‍💻 About Me
 
-- Experienced in React.js, Next.js, SvelteKit, TypeScript, Node.js, and Tailwind CSS
+- Experienced in React.js, React-Native, Next.js, SvelteKit, TypeScript, Node.js, and Tailwind CSS
 - Adept at translating complex UI/UX designs into clean, efficient, and maintainable code
 - Strong background in RESTful APIs, state management, and integrating AI & Web3 features
 - Proven track record in Agile teams, open-source, and startup environments
@@ -29,14 +29,9 @@ I'm a passionate Software Engineer with 4+ years of experience building scalable
 - **Hopeum:** Web3 staking platform; redesigned UI and contributed to game development.
 - **MediConnect:** Award-winning healthcare analytics dashboard for the Ilorin Innovation Hub Hackathon.
 
-## 🏆 Honors & Awards
-
-- Winner, Ilorin Innovation Hub E-Government Hackathon
-- FreeCodeCamp Certification
-
 ---
 
 ### 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/tunjiadeyemi) | [Twitter/X](https://twitter.com/tunjiadeyemi) | [Portfolio](https://tunjiadeyemi.com)  
+- [LinkedIn]([https://www.linkedin.com/in/tunjiadeyemi](https://www.linkedin.com/in/adetunji-stephen-adeyemi-5936a1217/)) | [Portfolio]([https://tunjiadeyemi.com](https://tunny.netlify.app/))  
   _Open to collaboration, mentorship, and new opportunities!_
