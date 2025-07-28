@@ -1,6 +1,6 @@
 # Hi, I'm Tunji Adéyẹmi 👋
 
-I'm a passionate Software Engineer with 4+ years of experience building scalable, high-performance web applications and developer tools. I specialize in modern frontend frameworks, robust backend systems, and seamless user experiences across web and mobile platforms.
+I'm a passionate Software Engineer with 3+ years of experience building scalable, high-performance web applications and developer tools. I specialize in modern frontend frameworks, robust backend systems, and seamless user experiences across web and mobile platforms.
 
 ## 👨‍💻 About Me
 
