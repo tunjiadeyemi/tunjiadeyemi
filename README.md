@@ -33,5 +33,5 @@ I'm a passionate Software Engineer with 4+ years of experience building scalable
 
 ### 📫 Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/tunjiadeyemi](https://www.linkedin.com/in/adetunji-stephen-adeyemi-5936a1217/)) | [Portfolio]([https://tunjiadeyemi.com](https://tunny.netlify.app/))  
+- [LinkedIn](https://www.linkedin.com/in/adetunji-stephen-adeyemi-5936a1217/) | [Portfolio](https://tunny.netlify.app/)  
   _Open to collaboration, mentorship, and new opportunities!_
