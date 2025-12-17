@@ -1,10 +1,10 @@
-## About Me
+## about me
 
-- 1 / 3 core maintainers of @classroomio
-- Engineered features and infrastructure for Naijastars.dev
+- 1 / 3 core maintainers of [@classroomio](https://github.com/classroomio/classroomio)
+- Engineered features and infrastructure for [Naijastars.dev]([https://github.com/classroomio/classroomio](https://github.com/classroomio/naija-stars))
 - Built and maintained Buzz
 
-## 🛠️ Skills
+## stack
 
 **Frontend:** React.js, React Native, Next.js, SvelteKit, TypeScript, JavaScript, Tailwind CSS, Redux, TanStack Query  
 **Backend:** Node.js, Express, Deno, Hono  
