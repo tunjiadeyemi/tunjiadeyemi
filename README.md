@@ -1,8 +1,8 @@
 ## about me
 
-- 1 / 3 core maintainers of [@classroomio](https://github.com/classroomio/classroomio)
+- Founder of [Buzz](https://chromewebstore.google.com/detail/bnfnbglfgppkhloiebilejcoipkafcjg?utm_source=item-share-cb)
+- Ex 1/3 core maintainers of [@classroomio](https://github.com/classroomio/classroomio)
 - Engineered features and infrastructure for [Naijastars.dev]([https://github.com/classroomio/classroomio](https://github.com/classroomio/naija-stars))
-- Built and maintained Buzz
 
 ## stack
 
