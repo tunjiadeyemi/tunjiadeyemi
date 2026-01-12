@@ -1,8 +1,9 @@
 ## about me
 
 - Founder of [Buzz](https://chromewebstore.google.com/detail/bnfnbglfgppkhloiebilejcoipkafcjg?utm_source=item-share-cb)
+- Creator of [Sveltool](https://www.npmjs.com/package/@tunjiadeyemi/sveltool)
 - Ex 1/3 core maintainers of [@classroomio](https://github.com/classroomio/classroomio)
-- Engineered features and infrastructure for [Naijastars.dev]([https://github.com/classroomio/classroomio](https://github.com/classroomio/naija-stars))
+- Engineered features and infrastructure for [Naijastars.dev]([https://github.com/classroomio/classroomio](https://github.com/classroomio/naija-stars)
 
 ## stack
 
